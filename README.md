@@ -10,4 +10,16 @@ Based on aspects of building location and construction, your goal is to predict 
 
 The data was collected through surveys by Kathmandu Living Labs and the Central Bureau of Statistics, which works under the National Planning Commission Secretariat of Nepal. This survey is one of the largest post-disaster datasets ever collected, containing valuable information on earthquake impacts, household conditions, and socio-economic-demographic statistics.
 
+## Techniques
+
+    Data cleaning/Preprocessing
+    Hyperparameter Optimisation
+    Machine Learning
+    Model Evaluation
+    Seaborn
+    Python / Jupyter notebook
+    SciPy
+    Seaborn
+    XGBoost
+    
 
