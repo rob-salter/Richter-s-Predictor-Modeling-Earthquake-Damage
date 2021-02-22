@@ -23,3 +23,6 @@ The data was collected through surveys by Kathmandu Living Labs and the Central 
     XGBoost
     
 
+# Result
+
+The final model achieved a score of 0.7462 which ranked 180 out of 3810 competitors.
